@@ -1,3 +1,8 @@
 File contains all the direct links to the data files
 
+Excel Files:
 1. Sample superstore (Excel): https://github.com/shekhar-pujari/data_files/raw/main/sample_super_store.xlsx
+
+
+CSV Files:
+1. Mr. Beast YouTube Stats (CSV): https://github.com/shekhar-pujari/data_files/raw/main/MrBeast_youtube_stats.csv
